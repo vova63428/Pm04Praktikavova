@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="proectiq.Tests/proectiq.Tests.csproj" Id="d1a77be2-8f3f-4d79-9179-68281864bcab" />
+  <Project Path="proectiq/proectiq.csproj" Id="f1530caf-e16c-46d6-9df1-665661ec5244" />
+</Solution>
